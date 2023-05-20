@@ -1,6 +1,7 @@
 # NibiruScript
 **Скрипт для установки нибиру (nibiru-itn1)**
 Предварительно необходимо выполнить:
+
 NIBIRU_MONIKER="your_name"
 NIBIRU_CHAIN="nibiru-itn-1"
 NIBIRU_WALLET="your_name"
